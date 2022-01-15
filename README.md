@@ -4,7 +4,7 @@
 ### To run this project:
 * First Clone it - `git clone https://github.com/Cotex05/medPrescribe.git`
 * Go to project directory.
-* Open command line and run `npm install` to install the required depedencies.
+* Open command line and run `npm install` to install the required modules and library.
 * Then run `expo start`.
 
 ### Demo
